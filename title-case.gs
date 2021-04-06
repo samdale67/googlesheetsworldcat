@@ -1,3 +1,6 @@
+
+// Used with great admiration: https://johnresig.com/blog/title-capitalization-in-javascript/#postcomment
+
 (function() {
 	var small = "(a|an|and|as|at|but|by|en|for|if|in|of|on|or|the|to|v[.]?|via|vs[.]?)";
 	var punct = "([!\"#$%&'()*+,./:;<=>?@[\\\\\\]^_`{|}~-]*)";
