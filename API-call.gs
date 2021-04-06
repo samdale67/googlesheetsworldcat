@@ -3,8 +3,8 @@
  * Client ID and Secret
  */
 
-const clientID = 'cUuYAWnqSzm7Rokou5DeSpHBmS9jh8LcFBatU3QNShuyWpHuJ8NmwG3lAYHSYlIkJ3PMX4DVkxx5gAJO';
-const clientSecret = 'yPWF6uemIxKLJLo0h5RMEZJ7B4Vakss1';
+const clientID = '';
+const clientSecret = '';
 
 function getToken(clientID, clientSecret) {
   //GET TOKEN 
